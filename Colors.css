@@ -1,0 +1,12 @@
+:root{
+    --Test: linear-gradient(0deg, #4f65a7e6 0%, #47b5d0e6 100%);
+    --TransparentBG: rgba(0, 0, 0, 0.4);
+    --Blue: #4790d0e6;
+    --Orange: #f0952ede;
+    --Green: #79b857d5;
+    --Shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+    --NoBG: #00000000;
+    --Border: 15px;
+    --Dark: #1a2e39;
+    --Green: linear-gradient(0deg, #4f65a7e6 0%, #47b5d0e6 100%);
+}
